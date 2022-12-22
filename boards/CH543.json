@@ -1,0 +1,20 @@
+{
+  "build": {
+    "f_cpu": "48000000L",
+    "size_iram": 256,
+    "size_xram": 256,
+    "size_code": 16384,
+    "size_heap": 128,
+    "mcu": "ch543",
+    "cpu": "mcs51"
+  },
+  "frameworks": [],
+  "upload": {
+    "maximum_ram_size": 512,
+    "maximum_size": 16384,
+    "protocol": "ch55x"
+  },
+  "name": "CH543",
+  "url": "http://www.wch-ic.com/products/CH543.html",
+  "vendor": "WCH"
+}
